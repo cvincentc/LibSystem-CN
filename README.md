@@ -1,3 +1,6 @@
+##Will have an English version soon...
+##Please run LibSystem.sln with VS studio 2017 and above
+
 # LibSystem
  进行程序调试时请双击`LibSystem.slb`，编译本程序最好使用visual studio 2019配置Windows SDK Version 10.0。
 
