@@ -1,0 +1,6 @@
+accid,bookid,borrow date,return date,status.
+0
+32
+YYYYMMDD
+YYYYMMDD
+1

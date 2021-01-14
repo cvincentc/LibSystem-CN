@@ -1,0 +1,20 @@
+﻿  exceptio.c
+  genlib.c
+  graphics.c
+G:\projects\LibSystem\libgraphics\graphics.c(822,18): warning C4101: 'consoleRect': unreferenced local variable
+G:\projects\LibSystem\libgraphics\graphics.c(1266,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\projects\LibSystem\libgraphics\graphics.c(1267,63): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\projects\LibSystem\libgraphics\graphics.c(1268,61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\projects\LibSystem\libgraphics\graphics.c(1654,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  random.c
+  simpio.c
+  strlib.c
+G:\projects\LibSystem\libgraphics\strlib.c(139,15): warning C4018: '>': signed/unsigned mismatch
+G:\projects\LibSystem\libgraphics\strlib.c(152,15): warning C4018: '>': signed/unsigned mismatch
+  imgui.c
+  LibFunc.c
+  LibGUI.c
+  The contents of <filesystem> are available only with C++17 or later.
+  Main.c
+  Generating Code...
+  LibSystem.vcxproj -> G:\projects\LibSystem\Debug\LibSystem.exe
